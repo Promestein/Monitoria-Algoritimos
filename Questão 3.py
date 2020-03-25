@@ -1,4 +1,7 @@
 """
+
+
+
 Faça um programa que funcione como o teste de colisão entre dois retângulos.
 Para cada um dos retângulos o programa deverá receber o seu ponto de origem (x e y), 
 seu compriento em relação a x e sua altura em relação a y. O programa deverá então testar

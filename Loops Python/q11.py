@@ -1,5 +1,6 @@
 """
 
+
 Faça um programa que retorne como sua saída uma pirâmide de asteriscos 
 como a do exemplo a seguir:
     *
@@ -14,6 +15,7 @@ de sua base e a quantidade de asteriscos em cada linha tem que ser ímpar.
 
 Dica: Você pode começar fazendo o programa para imprimir a pirâmide de um tamanho específico
 e sepois implementar a função de controlar o tamanho.
+
 
 """
 

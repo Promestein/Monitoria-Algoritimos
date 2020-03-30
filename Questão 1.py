@@ -1,5 +1,6 @@
 """
 
+cu de git bash
 Crie um programa que cheque se o número digitado é simétrico
 Exemplo:
 		Entrada 	Saída

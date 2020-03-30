@@ -1,6 +1,7 @@
 """
 
-cu de git bash
+de volta a normalidade
+
 Crie um programa que cheque se o número digitado é simétrico
 Exemplo:
 		Entrada 	Saída
